@@ -154,8 +154,10 @@ export function ContactPage() {
                   <div>
                     <h3 className="font-black text-[18px] mb-2">Office Address</h3>
                     <p className="text-gray-700">
-                      P.O. Box 55, Nkhamenya<br />
-                      Kasungu, Malawi
+                      Umodzi Empowerment Organization<br />
+                      P/O box 1003<br />
+                      Luwinga<br />
+                      Mzuzu
                     </p>
                   </div>
                 </div>

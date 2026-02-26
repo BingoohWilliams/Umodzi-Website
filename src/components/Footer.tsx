@@ -133,7 +133,15 @@ export function Footer({ onNavigate }: FooterProps) {
             <div className="space-y-3 text-gray-300">
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 mt-1 flex-shrink-0" />
-                <p>P.O. Box 55, Nkhamenya, Kasungu, Malawi</p>
+                <p>
+                  Umodzi Empowerment Organization
+                  <br />
+                  P/O box 1003
+                  <br />
+                  Luwinga
+                  <br />
+                  Mzuzu
+                </p>
               </div>
               <div className="flex items-start gap-3">
                 <Mail className="w-5 h-5 mt-1 flex-shrink-0" />
