@@ -120,7 +120,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
     },
     {
       title: "Student Upkeep Support Program",
-      description: "A 3-year program (2026-2029) providing vulnerable university students with monthly allowances of MK 50,000, business training, mentorship, and startup grants to build sustainable futures.",
+      description: "A 3-year program (2026-2029) providing vulnerable university students with monthly allowances of MK 50,000, business training, mentorship, and startup grants to build sustainable futures. Donor: Muller Schneder family.",
       image: "https://images.unsplash.com/photo-1735603598090-8efd0ecfbf9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxNYWxhd2klMjB1bml2ZXJzaXR5JTIwc3R1ZGVudHMlMjBzdHVkeWluZyUyMGdyYWR1YXRpb258ZW58MXx8fHwxNzcwNzYwMjM0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
     },
     {

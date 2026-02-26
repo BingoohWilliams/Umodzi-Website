@@ -26,6 +26,26 @@ export function ImpactPage() {
       image: "https://images.unsplash.com/photo-1651838677683-f642527059c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cmVlJTIwcGxhbnRpbmclMjBlbnZpcm9ubWVudGFsJTIwQWZyaWNhfGVufDF8fHx8MTc3MDc2NDg1OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
     },
     {
+      icon: Droplet,
+      title: "Going Beyond Project",
+      description: "A youth livelihood and entrepreneurship initiative supporting young people to develop business skills, confidence, and sustainable income opportunities.",
+      pillars: [
+        {
+          name: "Partnership",
+          details: "Implemented through collaboration between Umodzi Empowerment Organisation and Good Health Organisation as Host Partners, Emerge Livelihoods as Technical Partner, and The DO Trust (DOT) as Funding Partner."
+        },
+        {
+          name: "Umodzi Empowerment Organisation's Role",
+          details: "As a Host Partner, Umodzi supports youth mobilisation and participant coordination, local training facilitation, mentorship and entrepreneurship support, and community engagement activities."
+        },
+        {
+          name: "Project Focus and Impact",
+          details: "The project focuses on youth entrepreneurship, mindset transformation, skills development, incubation, and sustainable livelihoods. It equips young people with practical skills, business knowledge, and support networks to build independent and resilient futures in their communities."
+        }
+      ],
+      image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b3V0aCUyMGVudHJlcHJlbmV1cnNoaXAlMjBBZnJpY2F8ZW58MXx8fHwxNzcwNzYxMjQ0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    },
+    {
       icon: Users,
       title: "KUUWA Project",
       description: "Partnership with Plan International providing capacity-building and financial support for youth empowerment.",
@@ -185,7 +205,7 @@ export function ImpactPage() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             <div>
-              <div className="text-[48px] font-black mb-2">4+</div>
+              <div className="text-[48px] font-black mb-2">5+</div>
               <div className="text-[20px]">Major Projects</div>
             </div>
             <div>

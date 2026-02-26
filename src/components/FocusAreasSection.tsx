@@ -420,6 +420,10 @@ export function FocusAreasSection(props: FocusAreasSectionProps) {
                                 <h4 className="font-bold text-[#4153a5] mb-2 text-lg">Coverage</h4>
                                 <p className="text-gray-700">All public universities across Malawi</p>
                               </div>
+                              <div className="bg-gray-50 p-5 rounded-lg">
+                                <h4 className="font-bold text-[#4153a5] mb-2 text-lg">Donor</h4>
+                                <p className="text-gray-700">Muller Schneder family</p>
+                              </div>
                             </div>
 
                             <div>
